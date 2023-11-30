@@ -72,11 +72,11 @@ body {
 .navigation-item {
     display: flex;
     gap: 40px;
-
+    margin-right: 332px;
 }
 
 .navigation-list {
-    padding: 24px 0;
+    padding: 24px 0
 }
 
 .navigation-link {
@@ -99,6 +99,10 @@ body {
 .address-item {
     display: flex;
     gap: 40px;
+}
+
+.address-list {
+    padding: 24px 0;
 }
 
 .address-link {
