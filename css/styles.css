@@ -28,6 +28,7 @@ ol {
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
+    display: flex;
 }
 
 img {
@@ -61,7 +62,7 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    margin-right: 75px;
+    margin-right: 76px;
 }
 
 .header-logo-color {
