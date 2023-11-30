@@ -28,9 +28,11 @@ ol {
     width: 1440px;
     margin: 0 auto;
     padding: 0 15px;
+    display: flex;
 }
 
 img {
+    display: block;
     object-fit: cover;
 }
 
@@ -42,6 +44,10 @@ body {
 
 
 /*          header        */
+
+.header {
+    border-bottom: 1px solid #e7e9fc;
+}
 
 .header-logo {
     font-family: "Raleway", sans-serif;
