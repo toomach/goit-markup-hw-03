@@ -25,6 +25,11 @@ ol {
     padding-left: 0;
 }
 
+a {
+    color: currentColor;
+    text-decoration: none;
+}
+
 .container {
     width: 1158px;
     margin: 0 auto;
@@ -51,6 +56,7 @@ body {
 
 .header-container {
     display: flex;
+    align-items: center;
 }
 
 .navigation {
